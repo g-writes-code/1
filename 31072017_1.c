@@ -16,3 +16,6 @@ GOTO 10
 --this is a comment
 */
 this.quit //sorry if I killed thread
+void main (args[]){
+Return 0
+}
